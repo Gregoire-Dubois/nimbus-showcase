@@ -1,6 +1,9 @@
 # nimbus-showcase
 Application de monitoring d'applications d'entreprise - Stack Java 25 / Spring Boot / Angular 19
 
+# Démonstration vidéo : 
+https://youtu.be/rOWmt2hK0gc
+
 ![Java](https://img.shields.io/badge/Java-25-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-green)
 ![Angular](https://img.shields.io/badge/Angular-19-red)
