@@ -1,9 +1,6 @@
 # nimbus-showcase
 Application de monitoring d'applications d'entreprise - Stack Java 25 / Spring Boot / Angular 19
 
-# Démonstration vidéo : 
-https://youtu.be/rOWmt2hK0gc
-
 ![Java](https://img.shields.io/badge/Java-25-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-green)
 ![Angular](https://img.shields.io/badge/Angular-19-red)
@@ -19,6 +16,9 @@ Il arrive que les applications métiers tombent en panne et que les services de 
 C'est dans cette optique que Nimbus a été conçue — mettre à disposition des administrateurs et des utilisateurs une interface épurée permettant de communiquer sur l'état des applications de l'entreprise.
 
 > Projet personnel développé en dehors des heures de travail.
+
+## Démonstration vidéo : 
+https://youtu.be/rOWmt2hK0gc
 
 ## Aperçu
 
