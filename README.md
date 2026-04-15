@@ -54,7 +54,7 @@ https://youtu.be/rOWmt2hK0gc
 
 ## Roadmap
 
-- [ ] SSO Microsoft Entra ID (login/logout, gestion des rôles)
+- [ ] SSO (login/logout, gestion des rôles)
 - [ ] WebSocket STOMP pour les mises à jour en temps réel
 - [ ] Dockerisation complète (front + back + PostgreSQL)
 - [ ] Calcul météo basé sur ratio signalements/utilisateurs connectés
