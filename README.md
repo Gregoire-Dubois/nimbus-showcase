@@ -15,7 +15,7 @@ Il arrive que les applications métiers tombent en panne et que les services de 
 
 C'est dans cette optique que Nimbus a été conçue — mettre à disposition des administrateurs et des utilisateurs une interface épurée permettant de communiquer sur l'état des applications de l'entreprise.
 
-> Projet personnel développé en dehors des heures de travail.
+> Projet personnel.
 
 ## Démonstration vidéo : 
 https://youtu.be/rOWmt2hK0gc
